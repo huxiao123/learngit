@@ -7,5 +7,5 @@
 
 \f0\fs24 \cf2 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec2 Git is a distributed version control system.\
-Git is free software.\
+Git is free software distributed under the GPL.\
 }
