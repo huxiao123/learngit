@@ -9,7 +9,7 @@
 Git is a distributed version control system.\
 Git is free software.\
 \pard\pardeftab720\sl280\partightenfactor0
-\cf2 \outl0\strokewidth0 \strokec2 Git has a mutable index called stage.\
+\cf0 Git has a mutable index called stage.\
 \pard\pardeftab720\sl280\partightenfactor0
-\cf0 \outl0\strokewidth0 \
+\cf2 \outl0\strokewidth0 \strokec2 Git tracks changes.\
 }
